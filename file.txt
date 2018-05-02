@@ -4,3 +4,8 @@ function1()
 sample function;
 
 }
+
+function2()
+{
+	new!!
+}
